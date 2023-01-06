@@ -5,7 +5,7 @@ function Product () {
 }
 
 export function NavBar() {
-    return <nav>
+    return <nav id="probando">
         navigation
     </nav>
 }
